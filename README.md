@@ -1,4 +1,4 @@
-# verdaccio-delegated-auth
+# verdaccio-delegated-basic-auth
 
 verdaccio authentication plugin that delegates authentication to another HTTP URL
 
@@ -22,7 +22,7 @@ the user is authenticated in verdaccio. In all other cases, authentication fails
 ## Installation
 
 ```sh
-$ npm install verdaccio-delegated-auth
+$ npm install verdaccio-delegated-basic-auth
 ```
 
 ## Config
