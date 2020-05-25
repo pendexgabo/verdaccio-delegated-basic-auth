@@ -1,6 +1,6 @@
 {
   "name": "verdaccio-delegated-basic-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "verdaccio authentication plugin that delegates basic authentication to another HTTP URL",
   "main": "index.js",
   "scripts": {
