@@ -1,0 +1,23 @@
+{
+  "name": "verdaccio-delegated-basic-auth",
+  "version": "0.0.1",
+  "description": "verdaccio authentication plugin that delegates basic authentication to another HTTP URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pendexgabo",
+  "license": "MIT",
+  "keywords": [
+    "verdaccio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pendexgabo/verdaccio-delegated-basic-auth.git"
+  },
+  "dependencies": {
+    "base64-min": "^2.0.0",
+    "got": "^8.3.0",
+    "verdaccio": "^2.7.4"
+  }
+}
